@@ -215,7 +215,7 @@
 						"font_weight": null
 					},
 					"function.definition": {
-						"color": "#DCDCAA",
+						"color": null,
 						"font_style": "normal",
 						"font_weight": null
 					},
