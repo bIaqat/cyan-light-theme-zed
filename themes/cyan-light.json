@@ -7,6 +7,22 @@
 			"name": "Cyan Light",
 			"appearance": "light",
 			"style": {
+				"accents": [
+					"#063FDB",
+					"#B309B3",
+					"#067D17",
+					"null",
+					"#CE0505",
+					"#B28C00",
+					"#028E8E",
+					"#656565",
+					"#FCA4A7",
+					"#C4DBFA",
+					"#FBACFB",
+					"#B5E7BE",
+					"null",
+					"#F7E79F"
+				],
 				"border": "#bec5cd",
 				"border.variant": "#bec5cd",
 				"border.focused": "#bec5cd",
@@ -107,7 +123,6 @@
 				"error.background": "#FCA4A7",
 				"error.border": "#FCA4A7",
 				"hidden": "#7A7A7A",
-				"hidden.background": null,
 				"hidden.border": null,
 				"hint": "#7A7A7A",
 				"hint.background": "#C4DBFA",
@@ -122,7 +137,6 @@
 				"modified.background": "#F7E79F",
 				"modified.border": "#F7E79F",
 				"predictive": null,
-				"predictive.background": null,
 				"predictive.border": null,
 				"renamed": null,
 				"renamed.background": null,
@@ -131,7 +145,6 @@
 				"success.background": "#B5E7BE",
 				"success.border": "#B5E7BE",
 				"unreachable": null,
-				"unreachable.background": null,
 				"unreachable.border": null,
 				"warning": "#B28C00",
 				"warning.background": "#F7E79F",
@@ -254,11 +267,6 @@
 						"font_style": null,
 						"font_weight": null
 					},
-					"predoc": {
-						"color": null,
-						"font_style": null,
-						"font_weight": null
-					},
 					"primary": {
 						"color": "#2aaacb",
 						"font_style": null,
@@ -349,12 +357,12 @@
 						"font_style": "italic",
 						"font_weight": null
 					},
-					"type.interface": {
+					"type.super": {
 						"color": "#660e7a",
 						"font_style": "italic",
 						"font_weight": null
 					},
-					"type.super": {
+					"type.interface": {
 						"color": "#660e7a",
 						"font_style": "italic",
 						"font_weight": null
