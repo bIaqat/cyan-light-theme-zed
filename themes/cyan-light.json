@@ -63,7 +63,7 @@
 				"panel.background": "#e4e6ea",
 				"panel.focused_border": null,
 				"pane.focused_border": null,
-				"scrollbar_thumb.background": "#a2a3a6e0",
+				"scrollbar.thumb.background": "#a2a3a6e0",
 				"scrollbar.thumb.hover_background": null,
 				"scrollbar.thumb.border": "#3E3E3E00",
 				"scrollbar.track.background": "#3E3E3E00",
