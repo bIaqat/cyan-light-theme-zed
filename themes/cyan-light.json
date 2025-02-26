@@ -1,6 +1,6 @@
 {
 	"$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-	"name": "blaqat",
+	"name": "cyan-light",
 	"author": "blaqat",
 	"themes": [
 		{
@@ -11,7 +11,6 @@
 					"#063FDB",
 					"#B309B3",
 					"#067D17",
-					"null",
 					"#CE0505",
 					"#B28C00",
 					"#028E8E",
@@ -20,7 +19,6 @@
 					"#C4DBFA",
 					"#FBACFB",
 					"#B5E7BE",
-					"null",
 					"#F7E79F"
 				],
 				"border": "#bec5cd",
