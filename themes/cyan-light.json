@@ -34,7 +34,7 @@
 				"element.hover": "#B1C6CC",
 				"element.active": "#3eb2c120",
 				"element.selected": "#b8dde090",
-				"element.disabled": "#3C3C3C",
+				"element.disabled": "#D0D8DC",
 				"drop_target.background": null,
 				"ghost_element.background": null,
 				"ghost_element.hover": "#B1C9CC40",
